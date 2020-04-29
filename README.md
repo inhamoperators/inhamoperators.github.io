@@ -7,3 +7,8 @@ Here you will find announcements, and links to resources to obtain your Ham Radi
 
 Creation of new Page 04/29/2020
 
+
+
+### Resources:
+
+[HamStudy](hamstudy.org)
