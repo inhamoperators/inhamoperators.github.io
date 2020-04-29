@@ -16,3 +16,6 @@ Great resource to study for and practie the lic test.
 
 [Dave Casler](https://www.youtube.com/channel/UCaBtYooQdmNzq63eID8RaLQ)
 Dave does a great job explaning the material and other aspects of the hobby in a very easy to understand way.
+
+[Helpful Study Guides](https://www.kb6nu.com/study-guides/)
+No Nonsense Study guides to help you through the material.
