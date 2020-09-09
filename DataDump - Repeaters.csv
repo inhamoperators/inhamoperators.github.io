@@ -1,0 +1,169 @@
+a:20:{i:0;s:3:"011";i:1;s:3:"013";i:2;s:3:"021";i:3;s:3:"023";i:4;s:3:"053";i:5;s:3:"055";i:6;s:3:"057";i:7;s:3:"059";i:8;s:3:"063";i:9;s:3:"071";i:10;s:3:"093";i:11;s:3:"095";i:12;s:3:"097";i:13;s:3:"105";i:14;s:3:"107";i:15;s:3:"119";i:16;s:3:"121";i:17;s:3:"133";i:18;s:3:"145";i:19;s:3:"159";}Array
+(
+    [0] => 011
+    [1] => 013
+    [2] => 021
+    [3] => 023
+    [4] => 053
+    [5] => 055
+    [6] => 057
+    [7] => 059
+    [8] => 063
+    [9] => 071
+    [10] => 093
+    [11] => 095
+    [12] => 097
+    [13] => 105
+    [14] => 107
+    [15] => 119
+    [16] => 121
+    [17] => 133
+    [18] => 145
+    [19] => 159
+)
+Output Freq,Input Freq,Offset,Tone,TSQ,"Location",County,lat,long,Call,Use,Op Status,Mode,EchoLink,IRLP,AllStar,Coverage,Last Update
+443.15000,448.15000,+,77.0,,Lebanon,Boone,40.048,-86.469,N9HLL,CLOSED,On-Air,,,,,,2017-12-25
+147.10500,147.70500,+,77.0,,Lebanon,Boone,40.048,-86.469,N9HLL,OPEN,On-Air,,,,,,2018-10-29
+53.09000,52.09000,-,136.5,136.5,Nashville - Brown County State Park,Brown,39.162,-86.221,W9SCI,OPEN,On-Air,,,,,,2017-09-16
+147.30000,147.90000,+,136.5,,Nashville - Brown County State Park,Brown,39.207,-86.251,KD9KQS,OPEN,On-Air,,,,,,2018-06-05
+443.27500,448.27500,+,136.5,136.5,Nashville - Indiana ,Brown,39.162,-86.221,KD9KQS,OPEN,On-Air,,,,,,2018-11-12
+443.58750,448.58750,+,,,Nashville - Brown County State Park,Brown,39.169,-86.222,KC9TKJ,OPEN,On-Air,DMR,,,,,2019-12-08
+145.42000,144.82000,-,151.4,151.4,Center Point,Clay,39.417,-87.077,N9CCA,OPEN,On-Air,YSF/analog,,,,,2017-12-21
+145.37000,144.77000,-,131.8,,Rossville,Clinton,40.417,-86.595,WI9RES,OPEN,On-Air,,,,,,2017-12-23
+442.57500,447.57500,+,173.8,173.8,Frankfort,Clinton,40.279,-86.511,W9SMJ,OPEN,On-Air,YSF/analog,,,,,2018-06-07
+146.61000,146.01000,-,,,Cyclone,Clinton,40.228,-86.433,KC9HNP,OPEN,On-Air,,,,,,2018-02-15
+147.04500,147.64500,+,173.8,173.8,Frankfort,Clinton,40.279,-86.511,W9SMJ,OPEN,On-Air,,,,,,2018-06-07
+443.50000,448.50000,+,131.8,,Rossville,Clinton,40.417,-86.595,WI9RES,OPEN,On-Air,,,,,,2017-12-25
+443.37500,448.37500,+,,,Frankfort,Clinton,40.279,-86.511,W9SMJ,OPEN,On-Air,DMR,,,,,2019-12-08
+224.88000,223.28000,-,173.8,173.8,Frankfort,Clinton,40.279,-86.511,W9SMJ,OPEN,On-Air,,,,,,2018-06-07
+444.75000,449.75000,+,141.3,141.3,Marion,Grant,40.616,-85.646,K9MMQ,OPEN,On-Air,,,,,,2019-04-12
+443.40000,448.40000,+,141.3,,Marion - WXCC tower,Grant,40.558,-85.659,W9EBN,OPEN,On-Air,,,,,,2017-05-09
+442.75000,447.75000,+,131.8,,Marion,Grant,40.558,-85.659,KB9CRA,OPEN,On-Air,DMR,,,,,2019-12-08
+147.19500,147.79500,+,141.3,,Marion,Grant,40.558,-85.659,W9EBN,OPEN,On-Air,,,,,,2017-12-23
+146.79000,146.19000,-,141.3,,Marion,Grant,40.558,-85.659,W9EBN,OPEN,On-Air,,,,,,2017-12-23
+145.31000,144.71000,-,,,Marion - General Motors Metal Fabricating plant,Grant,40.558,-85.659,WB9UCF,OPEN,On-Air,,,,,,2017-07-28
+443.82500,448.82500,+,141.3,,Jonesboro,Grant,40.480,-85.628,N9PKL,OPEN,On-Air,,,,,,2018-07-12
+147.24000,147.84000,+,103.5,,Bloomfield,Greene,39.021,-86.724,W9HD,OPEN,On-Air,,,,,,2017-12-24
+53.31000,52.31000,-,88.5,,Jasonville,Greene,39.163,-87.199,KC9AK,OPEN,Off-Air,,,,,,2017-12-21
+145.17000,144.57000,-,100.0,,Linton,Greene,39.035,-87.166,KA9JOK,OPEN,On-Air,,,,,,2017-12-23
+145.39000,144.79000,-,118.8,,Linton,Greene,39.035,-87.166,W9GCR,OPEN,On-Air,,,,,Wide area,2017-12-24
+444.80000,449.80000,+,100.0,,Linton,Greene,39.035,-87.166,KA9JOK,OPEN,On-Air,,,,,,2017-12-25
+145.47000,144.87000,-,136.5,,Ridgeport,Greene,39.046,-86.804,KB9SIP,OPEN,On-Air,,,,,Wide area,2017-12-24
+442.42500,447.42500,+,118.8,,Vicksburg,Greene,39.091,-87.198,KB9SIP,OPEN,On-Air,,,,,Wide area,2017-12-25
+444.35000,449.35000,+,100.0,,Linton,Greene,39.035,-87.166,KA9JOK,OPEN,On-Air,,,,,,2017-12-25
+443.55000,448.55000,+,77.0,,Noblesville,Hamilton,40.053,-85.989,N9EOC,OPEN,On-Air,,,4816,,,2017-12-25
+145.17000,144.57000,-,77.0,,Noblesville,Hamilton,40.046,-86.009,N9EOC,OPEN,On-Air,,,4816,,,2017-12-23
+443.90000,448.90000,+,77.0,,Noblesville,Hamilton,40.015,-85.983,W9ICE,OPEN,On-Air,,,,,,2017-12-25
+927.08750,902.08750,-,131.8,,Noblesville,Hamilton,40.046,-86.009,K3HTK,OPEN,On-Air,,73008,8492,,,2017-12-24
+444.41250,449.41250,+,,,Noblesville,Hamilton,40.046,-86.009,K3HTK,OPEN,On-Air,DMR,,,,,2019-12-08
+927.53750,902.53750,-,151.4,151.4,Noblesville,Hamilton,40.046,-86.009,NF9K,OPEN,Off-Air,P25,,,,,2019-04-12
+444.72500,449.72500,+,,,Greenfield,Hancock,39.785,-85.769,W9ATG,OPEN,Unknown,,,,,,2020-04-04
+444.45000,449.45000,+,88.5,88.5,Greenfield,Hancock,39.863,-85.745,W9ATG,OPEN,On-Air,,,,,,2020-04-05
+145.33000,144.73000,-,88.5,88.5,Greenfield,Hancock,39.863,-85.745,W9ATG,OPEN,On-Air,,,,,,2020-04-10
+224.92000,223.32000,-,88.5,,McCordsville,Hancock,39.894,-85.920,WA4QQR,OPEN,On-Air,,,,,,2017-12-22
+442.27500,447.27500,+,123.0,,Plainfield,Hendricks,39.704,-86.399,AB9D,OPEN,On-Air,,,,,,2017-12-24
+145.29000,144.69000,-,88.5,,Stilesville,Hendricks,39.638,-86.634,AB9D,OPEN,On-Air,,,,,,2017-12-23
+444.57500,449.57500,+,,,Danville,Hendricks,39.761,-86.526,WX9HC,OPEN,On-Air,DMR,,,,Wide area,2019-12-08
+442.90000,447.90000,+,,,Danville,Hendricks,39.761,-86.526,WB9CIF,OPEN,On-Air,,,,,Wide area,2017-12-24
+147.16500,147.76500,+,,,Danville,Hendricks,39.761,-86.526,K9LMK,OPEN,On-Air,,,,,Wide area,2017-12-22
+145.13000,144.53000,-,88.5,88.5,Danville,Hendricks,39.761,-86.526,WX9HC,OPEN,On-Air,YSF/analog,,,,Wide area,2019-04-12
+444.20000,449.20000,+,,,Brownsburg,Hendricks,39.843,-86.398,W9BU,OPEN,On-Air,,,,,,2018-12-21
+147.01500,147.61500,+,88.5,,Belleville,Hendricks,39.677,-86.488,K9PZ,OPEN,On-Air,,,,,,2019-10-19
+444.40000,449.40000,+,151.4,,Coatesville,Hendricks,39.688,-86.670,KC9HKT,OPEN,On-Air,,,,,,2017-12-25
+442.77500,447.77500,+,,,Danville,Hendricks,39.761,-86.526,KO9F,OPEN,On-Air,,,,,,2018-06-07
+224.22000,222.62000,-,88.5,,Danville,Hendricks,39.761,-86.526,KD9EST,OPEN,On-Air,,,,,,2017-12-22
+442.02500,447.02500,+,151.4,151.4,Danville,Hendricks,39.761,-86.526,KD9EST,OPEN,Off-Air,YSF/analog,,,,,2018-07-12
+444.07500,449.07500,+,151.4,151.4,Coatesville,Hendricks,39.688,-86.670,K9ERV,OPEN,Off-Air,YSF/analog,,,,,2019-04-12
+442.02500,447.02500,+,88.5,88.5,Avon,Hendricks,39.763,-86.400,W9YZU,OPEN,On-Air,YSF/analog,,,,,2018-12-21
+145.36000,144.76000,-,151.4,,Danville,Hendricks,39.761,-86.526,KD9EST,OPEN,On-Air,,,,,,2018-12-21
+145.43000,144.83000,-,103.5,,Seymour,Jackson,38.959,-85.890,KC9JOY,OPEN,On-Air,,,,,,2017-12-23
+224.86000,223.26000,-,218.1,,Seymour,Jackson,38.959,-85.890,N9PUG,OPEN,On-Air,,,,,,2017-12-22
+441.55000,446.55000,+,103.5,,Brownstown,Jackson,38.878,-86.040,KC9JOY,OPEN,On-Air,,,,,,2019-07-27
+443.72500,448.72500,+,103.5,,Seymour,Jackson,38.959,-85.890,N9KPA,OPEN,On-Air,,,,,,2017-12-25
+29.68000,29.58000,-,136.5,,Bedford,Lawrence,38.861,-86.487,N9UMJ,OPEN,On-Air,,338340,4253,,Wide area,2018-01-13
+145.31000,144.71000,-,107.2,,Bedford,Lawrence,38.861,-86.487,W9QYQ,OPEN,On-Air,,,,,Wide area,2017-12-23
+145.49000,144.89000,-,136.5,,Bedford,Lawrence,38.861,-86.487,AA9WR,OPEN,On-Air,,,,,Wide area,2017-12-23
+146.73000,146.13000,-,107.2,,Mitchell,Lawrence,38.764,-86.521,W9QYQ,OPEN,On-Air,,,,,Wide area,2017-12-23
+147.34500,147.94500,+,107.2,107.2,Mitchell,Lawrence,38.733,-86.474,N9UMJ,OPEN,On-Air,YSF/analog,,,,Wide area,2019-12-08
+442.25000,447.25000,+,136.5,,Bedford,Lawrence,38.861,-86.487,N9UMJ,OPEN,On-Air,,338340,4253,,Wide area,2018-03-26
+442.67500,447.67500,+,,,Bedford,Lawrence,38.907,-86.476,N9WEV,OPEN,On-Air,,,,,Wide area,2020-03-29
+444.05000,449.05000,+,107.2,,Mitchell,Lawrence,38.733,-86.474,W9QYQ,OPEN,On-Air,,28268,,,Wide area,2017-12-25
+223.80000,222.20000,-,107.2,,Springville,Lawrence,38.936,-86.619,N9HXU,OPEN,On-Air,,,,,,2017-12-22
+444.67500,449.67500,+,,,Anderson,Madison,40.105,-85.680,WA9EOC,OPEN,On-Air,,,,,,2017-12-22
+443.35000,448.35000,+,110.9,110.9,Anderson - WGNR Broadcast Tower,Madison,40.105,-85.680,WA9CWE,OPEN,On-Air,,,,,,2019-04-12
+441.75000,446.75000,+,,,Anderson,Madison,40.105,-85.680,WA9EOC,OPEN,On-Air,,,,,,2018-06-05
+147.09000,147.69000,+,110.9,,Linwood - Linwood EOC,Madison,40.193,-85.681,KB9VE,OPEN,Off-Air,,,4834,,,2017-12-24
+146.82000,146.22000,-,110.9,,Anderson,Madison,40.105,-85.680,W9OBH,OPEN,On-Air,,,,,,2017-12-15
+145.39000,144.79000,-,151.4,,Anderson - Community Hospital,Madison,40.130,-85.693,W9VCF,OPEN,On-Air,,,,,,2017-12-26
+223.86000,222.26000,-,151.4,,Anderson,Madison,41.016,-85.682,KC9JWO,OPEN,On-Air,,,,,,2017-12-22
+425.25000,439.25000,s,,,Indianapolis,Marion,39.768,-86.158,K9LPW,OPEN,Off-Air,,,,,,2017-12-22
+444.12500,449.12500,+,,,Indianapolis,Marion,39.895,-86.201,W9ICE,OPEN,On-Air,,,,,,2018-06-07
+1293.50000,1273.50000,-,77.0,,Indianapolis,Marion,39.768,-86.154,W9ICE,OPEN,On-Air,,,,,,2017-12-24
+927.98750,902.98750,-,77.0,,Indianapolis,Marion,39.890,-86.205,W9ICE,OPEN,On-Air,,,,,Wide area,2017-12-24
+444.87500,449.87500,+,,,Indianapolis,Marion,39.768,-86.158,KA9GIX,OPEN,Off-Air,,,,,,2017-12-22
+444.32500,449.32500,+,136.5,136.5,Indianapolis,Marion,39.768,-86.158,KB9SGN,OPEN,On-Air,,,,,Wide area,2018-06-07
+444.00000,449.00000,+,100.0,,Indianapolis,Marion,39.768,-86.158,NE9T,OPEN,On-Air,,,,,,2017-12-25
+443.80000,448.82500,+,,,Indianapolis,Marion,39.768,-86.158,KC9COP,OPEN,Off-Air,,,,,,2017-12-22
+443.75000,448.75000,+,100.0,,Indianapolis,Marion,39.768,-86.158,K9LPW,OPEN,On-Air,YSF/analog,,,,,2017-12-25
+443.42500,448.42500,+,94.8,94.8,Indianapolis,Marion,39.768,-86.158,K9IP,OPEN,On-Air,,,4730,,,2018-06-07
+441.35000,446.35000,+,77.0,,Indianapolis,Marion,39.768,-86.158,W9ICE,OPEN,On-Air,,,,,,2017-12-30
+443.00000,448.00000,+,100.0,,Indianapolis,Marion,39.768,-86.158,WB9PGW,OPEN,On-Air,,,,,,2017-12-25
+442.95000,447.95000,+,,,Indianapolis,Marion,39.768,-86.158,KB9RBF,OPEN,On-Air,,,,,,2017-12-25
+442.85000,447.85000,+,100.0,,Indianapolis,Marion,39.768,-86.158,NF9K,OPEN,On-Air,,9600,8642,,,2017-12-25
+442.65000,447.65000,+,77.0,,Indianapolis,Marion,39.895,-86.201,KM9E,OPEN,On-Air,,,,,Wide area,2020-04-10
+442.50000,447.50000,+,100.0,100.0,Indianapolis,Marion,39.768,-86.158,W9EMO,OPEN,On-Air,YSF/analog,,,,,2019-04-12
+442.37500,447.37500,+,043,,Indianapolis,Marion,39.768,-86.158,K9DC,CLOSED,On-Air,,,4732,,,2017-12-25
+442.00000,447.00000,+,,,Indianapolis,Marion,39.768,-86.158,KA9GIX,OPEN,Off-Air,,,,,,2017-12-22
+441.92500,446.92500,+,100.0,,Indianapolis,Marion,39.900,-86.043,K9RAG,OPEN,On-Air,,,,,,2017-12-24
+224.98000,223.38000,-,77.0,,Indianapolis,Marion,39.768,-86.153,W9ICE,OPEN,On-Air,,,,,,2017-12-22
+224.54000,222.94000,-,,,Indianapolis,Marion,39.768,-86.158,KB9RBF,OPEN,On-Air,,,,,,2017-12-22
+224.50000,222.90000,-,,,Indianapolis,Marion,39.768,-86.158,KC9COP,OPEN,On-Air,,,,,,2017-12-22
+147.07500,147.67500,+,,,Indianapolis,Marion,39.768,-86.158,KA9GIX,OPEN,On-Air,,,,,,2017-12-22
+146.97000,146.37000,-,107.2,,Indianapolis,Marion,39.890,-86.205,W9ICE,OPEN,On-Air,,,7531,,,2017-12-23
+146.88000,146.28000,-,88.5,88.5,Indianapolis,Marion,39.768,-86.158,W9RCA,OPEN,On-Air,YSF/analog,6522,,,,2018-06-07
+146.76000,146.16000,-,151.4,151.4,Indianapolis,Marion,39.768,-86.158,K9LPW,OPEN,On-Air,YSF/analog,,,,,2019-04-12
+146.67000,146.07000,-,123.0,123.0,Indianapolis,Marion,39.768,-86.158,K9IPL,OPEN,On-Air,YSF/analog,,,,,2019-04-12
+145.37000,144.77000,-,88.5,,Indianapolis,Marion,39.768,-86.158,W9GTA,OPEN,On-Air,,,,,,2017-12-23
+145.21000,144.61000,-,100.0,,Indianapolis,Marion,39.768,-86.158,NE9T,OPEN,On-Air,,,,,,2017-12-23
+53.01000,52.01000,-,,,Indianapolis,Marion,39.768,-86.158,K9TNW,OPEN,On-Air,,,,,,2017-12-21
+52.70000,51.70000,-,136.5,136.5,Indianapolis,Marion,39.768,-86.158,K9IPL,OPEN,On-Air,,,,,,2019-04-12
+443.32500,448.32500,+,156.7,156.7,Indianapolis ,Marion,39.585,-86.196,KB9RRN,OPEN,On-Air,,541081,,,,2018-05-15
+443.25000,448.25000,+,100.0,,Indianapolis,Marion,39.768,-86.158,KM9E,OPEN,On-Air,,,,,,2017-12-29
+927.48750,902.48750,-,131.8,,Indianapolis,Marion,39.704,-86.188,W9ICE,OPEN,On-Air,,,,,,2017-12-24
+442.72500,447.72500,+,,,Indianapolis,Marion,39.769,-86.158,W9SEM,OPEN,On-Air,,,,,,2018-12-21
+146.62500,146.02500,-,88.5,88.5,Indianapolis,Marion,39.779,-86.150,W9IRA,OPEN,On-Air,,,,,,2017-05-24
+146.70000,146.10000,-,,,Indianapolis,Marion,39.929,-86.182,W9IRA,OPEN,On-Air,,,,,Wide area,2019-05-20
+147.12000,147.72000,+,,,Indianapolis,Marion,39.822,-86.066,W9IRA,OPEN,On-Air,,,,,,2017-12-22
+443.85000,448.85000,+,88.5,,Indianapolis,Marion,39.929,-86.182,W9IRA,OPEN,On-Air,,,,,Wide area,2017-12-25
+441.02500,446.02500,+,,,Indianapolis,Marion,39.768,-86.158,NF9K,OPEN,On-Air,DMR,815131,8154,,,2018-06-07
+441.20000,446.20000,+,,,Indianapolis,Marion,39.769,-86.158,W9AMT,OPEN,On-Air,DMR,,,,,2019-12-08
+147.31500,147.91500,+,94.8,94.8,Indianapolis,Marion,39.768,-86.158,K9DC,OPEN,On-Air,,,4735,,,2018-06-07
+147.21000,147.81000,+,,,Indianapolis,Marion,39.768,-86.158,W9FBZ,OPEN,On-Air,,,,,,2017-12-22
+441.87500,446.87500,+,043,043,Indianapolis,Marion,39.812,-86.051,W9CRC,OPEN,On-Air,YSF/analog,,,,,2017-12-22
+145.41000,144.81000,-,,,Indianapolis,Marion,39.768,-86.158,W9AMT,OPEN,On-Air,DMR,,,,Wide area,2019-12-08
+146.64000,146.04000,-,136.5,136.5,Bloomington - Indiana University,Monroe,39.167,-86.527,WB9TLH,OPEN,On-Air,,,,,Wide area,2018-06-07
+147.18000,147.78000,+,136.5,136.5,Bloomington - IU,Monroe,39.168,-86.524,K9IU,OPEN,On-Air,YSF/analog,,,,,2018-02-27
+224.64000,223.04000,-,107.2,,Bloomington - BHSS,Monroe,39.143,-86.532,K9SOU,OPEN,On-Air,,,,,,2017-12-22
+444.90000,449.90000,+,,,Bloomington - IU,Monroe,39.168,-86.524,K9IU,OPEN,On-Air,,,,,,2018-06-07
+443.77500,448.77500,+,136.5,,Bloomington,Monroe,39.165,-86.526,KB9SGN,OPEN,On-Air,,,,,Wide area,2018-02-27
+443.05000,448.05000,+,,,Kirksville,Monroe,39.068,-86.627,WB9TLH,PRIVATE,On-Air,YSF/analog,247501,4187,,,2019-12-08
+441.22500,446.22500,+,136.5,136.5,Bloomington,Monroe,39.165,-86.526,K7JOE,OPEN,On-Air,,,,,,2017-12-20
+146.86500,146.26500,-,77.0,,Crawfordsville,Montgomery,40.041,-86.874,KB9GPB,OPEN,On-Air,,,,,,2017-12-23
+147.22500,147.82500,+,88.5,,Crawfordsville,Montgomery,40.041,-86.874,KC9ZED,OPEN,On-Air,,,,,,2017-12-23
+147.27000,147.87000,+,,,Crawfordsville,Montgomery,40.041,-86.874,KC9QKL,OPEN,On-Air,,,,,,2017-12-22
+444.80000,449.80000,+,77.0,,Crawfordsville,Montgomery,40.041,-86.874,KB9GPB,OPEN,On-Air,,,,,,2017-12-25
+146.89500,146.29500,-,136.5,,Gosport,Owen,39.351,-86.667,KB9SGN,OPEN,On-Air,,,,,Wide area,2017-12-23
+146.98500,146.38500,-,136.5,,Spencer,Owen,39.287,-86.762,K9QZX,OPEN,On-Air,,,,,,2017-12-24
+147.37500,147.97500,+,136.5,,Cloverdale,Owen,39.515,-86.794,WB9STA,OPEN,On-Air,,974052,,,,2017-12-23
+145.44000,144.84000,-,151.4,151.4,Rockville - Parke County Jail,Parke,39.763,-87.229,AD0TY,OPEN,On-Air,,,,,,2017-05-03
+444.47500,449.47500,+,136.5,,Cloverdale,Putnam,39.515,-86.794,KB9SGN,OPEN,On-Air,,,,,Wide area,2017-12-25
+147.33000,147.93000,+,,,Greencastle - Putnam County EOC,Putnam,39.645,-86.865,WB9EOC,OPEN,On-Air,YSF/analog,,,,,2019-03-21
+442.22500,447.22500,+,,,Greencastle,Putnam,39.645,-86.865,WB9EOC,OPEN,On-Air,YSF,,,,,2020-04-05
+441.81250,446.81250,+,,,Cloverdale,Putnam,39.515,-86.794,N9NDS,OPEN,Testing,DMR,,,,,2020-03-26
+444.97500,449.97500,+,,,Shelbyville,Shelby,39.521,-85.777,W9NTP,OPEN,On-Air,YSF/analog,,,,,2017-12-22
+224.44000,222.84000,-,,,Shelbyville,Shelby,39.521,-85.777,W9NTP,OPEN,On-Air,,,,,,2017-12-22
+145.48000,144.88000,-,88.5,88.5,Shelbyville - Drake Electric,Shelby,39.521,-85.777,W9NTP,OPEN,On-Air,YSF/analog,,,,,2017-06-13
+441.48750,446.48750,+,,,Shelbyville - Drake Electric,Shelby,39.513,-85.777,W9NTP,OPEN,On-Air,DMR,,,,,2019-12-08
+442.18750,447.18750,+,,,Shelbyville,Shelby,39.514,-85.790,W9NTP,OPEN,On-Air,,,,,,2019-04-12
+443.12500,448.12500,+,,,Tipton,Tipton,40.282,-86.041,K9TRC,OPEN,On-Air,,,,,,2017-12-25
+443.70000,448.70000,+,131.8,131.8,Sharpsville,Tipton,40.380,-86.089,K9TRC,OPEN,On-Air,,,,,,2018-06-07
