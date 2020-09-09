@@ -20,6 +20,12 @@ Dave does a great job explaning the material and other aspects of the hobby in a
 [Helpful Study Guides](https://www.kb6nu.com/study-guides/)
 No Nonsense Study guides to help you through the material.
 
+[Radio File Repo](https://github.com/inhamoperators/inhamoperators.github.io)
+If you follow this link, it will take you to the file repo for this site which will lead to a couple files.
+Central Indiana Repeaters  -  file that can be uploaded to a radio via Chirp.  With little to no edits it will work with some Yeasu and baofeng radios.
+DataDump Repeaters.csv -  CSV file will all Indiana Repeaters.   Can be used as reference or converted to chirp file.
+
+
 [Central Indiana Repeaters] (https://www.github.com/inhamoperators/inhamoperators.github.io/blob/master/CHIRP%20-%20Central%20Indiana%20Repeaters.csv)
 Chirp file with Indiana repeaters to upload to Baofeng Radios.  (May require a few edits based on your radio)
 
