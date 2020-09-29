@@ -20,6 +20,9 @@ Dave does a great job explaning the material and other aspects of the hobby in a
 [Helpful Study Guides](https://www.kb6nu.com/study-guides/)
 No Nonsense Study guides to help you through the material.
 
+[Find Testing Near you](http://www.arrl.org/find-an-amateur-radio-license-exam-session)
+Follow this link to the arrl.org page to find local testing sessions.
+
 [Radio Files Repo](https://github.com/inhamoperators/inhamoperators.github.io)
 If you follow this link, it will take you to the file repo for this site which will lead to a couple files.
 
